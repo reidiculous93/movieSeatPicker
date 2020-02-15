@@ -1,0 +1,20 @@
+{
+  "name": "movieseatpicker",
+  "version": "1.0.0",
+  "description": "movieSeatPicker",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reidiculous93/movieSeatPicker.git"
+  },
+  "author": "Reid Vrana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reidiculous93/movieSeatPicker/issues"
+  },
+  "homepage": "https://github.com/reidiculous93/movieSeatPicker#readme"
+}
